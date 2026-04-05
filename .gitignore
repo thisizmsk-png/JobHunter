@@ -1,0 +1,25 @@
+# PII — never commit
+config/profile.yaml
+profile.yaml
+assets/*.docx
+*.docx
+vendor_sites.xlsx
+
+# Personal overrides
+.claude/settings.local.json
+CLAUDE.local.md
+
+# Runtime
+data/logs/
+data/screenshots/
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+data/jobs.db-shm
+data/jobs.db-wal

@@ -1,0 +1,65 @@
+search:
+  keywords:
+    primary:
+      - "Java Developer"
+      - "Java Full Stack"
+      - "Sr Java Developer"
+      - "Senior Java Developer"
+    secondary:
+      - "Spring Boot Developer"
+      - "Java Microservices"
+      - "J2EE Developer"
+      - "Java Backend Developer"
+  location: "New Jersey"
+  radius_miles: 50
+  hours_old: 24
+
+filters:
+  contract_types_include:
+    - "C2C"
+    - "C2H"
+    - "Corp-to-Corp"
+    - "Corp to Corp"
+    - "Contract-to-Hire"
+    - "Contract to Hire"
+    - "W2 Contract"
+    - "Contract"
+    - "1099"
+  employment_types_exclude:
+    - "Full-Time"
+    - "Full Time"
+    - "Permanent"
+    - "Direct Hire"
+    - "FTE"
+    - "Perm"
+  title_exclude:
+    - "Lead"
+    - "Architect"
+    - "Principal"
+    - "Director"
+    - "Manager"
+    - "VP"
+    - "Chief"
+    - "Head of"
+    - "Staff Engineer"
+    - "Distinguished"
+  title_must_contain_one:
+    - "Java"
+    - "Spring Boot"
+    - "J2EE"
+    - "Microservices"
+    - "Full Stack"
+  company_blacklist: []
+
+matching:
+  min_score: 40
+  preferred_locations:
+    - "New Jersey"
+    - "New York"
+    - "Remote"
+    - "Hybrid"
+    - "NJ"
+    - "NY"
+  target_rate: "$53/hr"
+
+vendor_batch_size: 50

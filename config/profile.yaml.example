@@ -1,0 +1,49 @@
+# Copy this to config/profile.yaml and fill in your details.
+# NEVER commit profile.yaml — it's in .gitignore.
+
+name: "Your Name"
+email: "your.email@gmail.com"
+phone: "+1XXXXXXXXXX"
+location: "City, State"
+linkedin_url: "https://www.linkedin.com/in/your-profile"
+resume_path: "assets/Your_Resume.docx"
+summary: "Your professional summary here"
+years_of_experience: 0
+visa_status: "US Citizen"
+visa_options:
+  - "US Citizen"
+
+skills:
+  - "Java"
+  - "Spring Boot"
+
+# Address (for ATS forms)
+address_line1: ""
+address_line2: ""
+city: ""
+state: ""
+zip_code: ""
+country: "United States"
+
+# Education
+degree: "Bachelors"
+university: ""
+graduation_year: ""
+major: ""
+
+# Current employment
+current_company: ""
+current_title: ""
+
+# Preferences
+willing_to_relocate: true
+work_mode: "hybrid"
+notice_period: "2 weeks"
+expected_rate: "50"
+how_did_you_hear: "Job Board"
+
+# Demographics (voluntary — leave blank to skip)
+gender: ""
+ethnicity: ""
+veteran_status: "I am not a protected veteran"
+disability_status: "I do not wish to answer"
