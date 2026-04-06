@@ -2983,5 +2983,53 @@
     "easy_apply": true,
     "location": "Sunnyvale, California, USA",
     "posted": "2026-04-06"
+  },
+  {
+    "guid": "d6ff5cbf-1da4-4cd4-b03a-daa287d84e4e",
+    "title": "Senior Azure Java Developer NYC",
+    "company": "Goldenpick Technologies LLC",
+    "location": "New York, New York, USA"
+  },
+  {
+    "guid": "ee037b3f-e3a9-4c7b-a4b5-b0bd608d8daa",
+    "title": "Senior Actimize Engineer Java",
+    "company": "Hadiamondstar Software Solutions LLC",
+    "location": "Richmond, Virginia, USA"
+  },
+  {
+    "guid": "ee13208e-0b98-4bfe-8d1b-2b02c1a0a686",
+    "title": "Java with APIGEE",
+    "company": "Sriven Systems Inc.",
+    "location": "Morrisville, North Carolina, USA"
+  },
+  {
+    "guid": "ff7cd028-96dd-4ff3-9d3b-2330f81cc1c0",
+    "title": "Senior Full Stack (Java & Salesforce LWC) - Remote",
+    "company": "LEO DOES IT INC",
+    "location": ""
+  },
+  {
+    "guid": "d57865a8-c155-40ef-889d-bcdc6827b97e",
+    "title": "Java Google Cloud Platform Developer with Devops exp",
+    "company": "Cyberobotix",
+    "location": ""
+  },
+  {
+    "guid": "a671c21c-e73a-4bc5-9371-7cc19155f974",
+    "title": "Middleware Developer - Remote",
+    "company": "Crown Solutions Inc",
+    "location": ""
+  },
+  {
+    "guid": "efc55c92-1346-4e7c-a1fa-51245630267e",
+    "title": "SRE Engineer",
+    "company": "Rapsys Technologies",
+    "location": "Phoenix, Arizona, USA"
+  },
+  {
+    "guid": "6403f7fc-fd37-4a0e-b3fe-665ece88f898",
+    "title": "AWS API Developer",
+    "company": "Infogen Software Inc.",
+    "location": "Remote"
   }
 ]

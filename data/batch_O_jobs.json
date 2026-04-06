@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "guid": "d6ff5cbf-1da4-4cd4-b03a-daa287d84e4e",
+    "title": "Senior Azure Java Developer NYC",
+    "company": "Goldenpick Technologies LLC",
+    "url": "https://www.dice.com/job-detail/d6ff5cbf-1da4-4cd4-b03a-daa287d84e4e",
+    "easy_apply": true,
+    "location": "New York, New York, USA",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "ee037b3f-e3a9-4c7b-a4b5-b0bd608d8daa",
+    "title": "Senior Actimize Engineer Java",
+    "company": "Hadiamondstar Software Solutions LLC",
+    "url": "https://www.dice.com/job-detail/ee037b3f-e3a9-4c7b-a4b5-b0bd608d8daa",
+    "easy_apply": true,
+    "location": "Richmond, Virginia, USA",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "ee13208e-0b98-4bfe-8d1b-2b02c1a0a686",
+    "title": "Java with APIGEE",
+    "company": "Sriven Systems Inc.",
+    "url": "https://www.dice.com/job-detail/ee13208e-0b98-4bfe-8d1b-2b02c1a0a686",
+    "easy_apply": true,
+    "location": "Morrisville, North Carolina, USA",
+    "posted": "2026-04-06"
+  }
+]
