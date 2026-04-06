@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Atrilogy",
+    "type": "ats_catsone",
+    "search_url": "https://atrilogy.catsone.com/careers/",
+    "search_keyword": "Java",
+    "cooldown_days": 0,
+    "notes": "CATSOne ATS — guest apply, search + apply per listing"
+  },
+  {
+    "name": "Belcan Jobs",
+    "type": "ats_smartsearch",
+    "search_url": "https://belcanjobs.smartsearchonline.com/adhocjobsearch.asp",
+    "search_keyword": "Java",
+    "cooldown_days": 0,
+    "notes": "SmartSearch Online — guest apply"
+  },
+  {
+    "name": "Kore 1",
+    "type": "ats_smartsearch",
+    "search_url": "https://search10.smartsearchonline.com/koreone/jobs/adhocjobsearch.asp",
+    "search_keyword": "Java",
+    "cooldown_days": 0,
+    "notes": "SmartSearch Online — guest apply"
+  },
+  {
+    "name": "SIS (Systems Integration Solutions)",
+    "type": "ats_smartsearch",
+    "search_url": "http://search2.smartsearchonline.com/sis/jobs/adhocjobsearch.asp",
+    "search_keyword": "Java",
+    "cooldown_days": 0,
+    "notes": "SmartSearch Online — guest apply"
+  },
+  {
+    "name": "Pierce",
+    "type": "ats_workable",
+    "search_url": "https://apply.workable.com/pierce/",
+    "search_keyword": "Java",
+    "cooldown_days": 0,
+    "notes": "Workable — clean guest apply"
+  },
+  {
+    "name": "GetInFocus",
+    "type": "ats_workbright",
+    "search_url": "https://oninsearch.workbrightats.com/jobs/",
+    "search_keyword": "Java",
+    "cooldown_days": 0,
+    "notes": "WorkBright ATS — guest apply"
+  },
+  {
+    "name": "PRC Staffing",
+    "type": "ats_topechelon",
+    "search_url": "https://careers.topechelon.com/portals/1b194f13-c36f-41b3-b6b5-dbdc41818a10/",
+    "search_keyword": "Java",
+    "cooldown_days": 0,
+    "notes": "Top Echelon — guest apply"
+  },
+  {
+    "name": "SDHR Consulting",
+    "type": "ats_applicantmanager",
+    "search_url": "https://www.theapplicantmanager.com/careers?co=sd",
+    "search_keyword": "Java",
+    "cooldown_days": 0,
+    "notes": "The Applicant Manager — guest apply"
+  },
+  {
+    "name": "OnPoint Solutions",
+    "type": "ats_aviontego",
+    "search_url": "https://pfs.aviontego.com/portals/Portals/JobBoard/JobSearch.aspx",
+    "search_keyword": "Java",
+    "cooldown_days": 0,
+    "notes": "Aviontego — guest apply"
+  },
+  {
+    "name": "Alku",
+    "type": "resume_form",
+    "form_url": "https://www.alku.com/join-as-a-consultant/",
+    "cooldown_days": 7,
+    "fields": {
+      "first_name_sel": "input[name*='first'], input[placeholder*='First'], #first_name, input[id*='first']",
+      "last_name_sel":  "input[name*='last'], input[placeholder*='Last'], #last_name, input[id*='last']",
+      "email_sel":      "input[type='email'], input[name*='email'], input[placeholder*='email' i]",
+      "phone_sel":      "input[type='tel'], input[name*='phone'], input[placeholder*='phone' i]",
+      "message_sel":    "textarea",
+      "submit_sel":     "button[type='submit'], input[type='submit']"
+    },
+    "notes": "Contact form — weekly submission"
+  },
+  {
+    "name": "Andiamogo",
+    "type": "resume_form",
+    "form_url": "https://andiamogo.com/contact/",
+    "cooldown_days": 7,
+    "fields": {
+      "first_name_sel": "input[name*='first'], input[placeholder*='First'], #first_name",
+      "last_name_sel":  "input[name*='last'], input[placeholder*='Last'], #last_name",
+      "email_sel":      "input[type='email'], input[name*='email']",
+      "phone_sel":      "input[type='tel'], input[name*='phone']",
+      "message_sel":    "textarea",
+      "submit_sel":     "button[type='submit'], input[type='submit']"
+    },
+    "notes": "Contact form — weekly submission"
+  },
+  {
+    "name": "Ascendion",
+    "type": "resume_form",
+    "form_url": "https://ascendion.com/join-us/careers/",
+    "cooldown_days": 7,
+    "fields": {
+      "first_name_sel": "input[name*='first'], input[placeholder*='First']",
+      "last_name_sel":  "input[name*='last'], input[placeholder*='Last']",
+      "email_sel":      "input[type='email'], input[name*='email']",
+      "phone_sel":      "input[type='tel'], input[name*='phone']",
+      "message_sel":    "textarea",
+      "submit_sel":     "button[type='submit'], input[type='submit']"
+    },
+    "notes": "Careers form — weekly submission"
+  },
+  {
+    "name": "IMCS Group",
+    "type": "resume_form",
+    "form_url": "https://imcsgroup.net/contact-imcs/",
+    "cooldown_days": 7,
+    "fields": {
+      "first_name_sel": "input[name*='first'], input[placeholder*='First'], #first_name",
+      "last_name_sel":  "input[name*='last'], input[placeholder*='Last'], #last_name",
+      "email_sel":      "input[type='email'], input[name*='email']",
+      "phone_sel":      "input[type='tel'], input[name*='phone']",
+      "message_sel":    "textarea",
+      "submit_sel":     "button[type='submit'], input[type='submit']"
+    },
+    "notes": "Contact form — weekly submission"
+  },
+  {
+    "name": "Whitridge Associates",
+    "type": "resume_form",
+    "form_url": "https://www.whitridge.com/contact",
+    "cooldown_days": 7,
+    "fields": {
+      "first_name_sel": "input[name*='first'], input[placeholder*='First'], #first_name",
+      "last_name_sel":  "input[name*='last'], input[placeholder*='Last'], #last_name",
+      "email_sel":      "input[type='email'], input[name*='email']",
+      "phone_sel":      "input[type='tel'], input[name*='phone']",
+      "message_sel":    "textarea",
+      "submit_sel":     "button[type='submit'], input[type='submit']"
+    },
+    "notes": "Contact form — weekly submission"
+  },
+  {
+    "name": "WorldBridge Partners",
+    "type": "resume_form",
+    "form_url": "https://worldbridgepartners.com/join-us/join-worldbridge/",
+    "cooldown_days": 7,
+    "fields": {
+      "first_name_sel": "input[name*='first'], input[placeholder*='First']",
+      "last_name_sel":  "input[name*='last'], input[placeholder*='Last']",
+      "email_sel":      "input[type='email'], input[name*='email']",
+      "phone_sel":      "input[type='tel'], input[name*='phone']",
+      "message_sel":    "textarea",
+      "submit_sel":     "button[type='submit'], input[type='submit']"
+    },
+    "notes": "Join network form — weekly submission"
+  },
+  {
+    "name": "Messina Talent Advisors",
+    "type": "resume_form",
+    "form_url": "https://messinatalentadvisors.com/submit-your-resume/",
+    "cooldown_days": 7,
+    "fields": {
+      "first_name_sel": "input[name*='first'], input[placeholder*='First']",
+      "last_name_sel":  "input[name*='last'], input[placeholder*='Last']",
+      "email_sel":      "input[type='email'], input[name*='email']",
+      "phone_sel":      "input[type='tel'], input[name*='phone']",
+      "message_sel":    "textarea",
+      "submit_sel":     "button[type='submit'], input[type='submit']"
+    },
+    "notes": "Resume submit form — weekly submission"
+  },
+  {
+    "name": "EquisDifference",
+    "type": "resume_form",
+    "form_url": "https://equisdifference.com/join-our-network/",
+    "cooldown_days": 7,
+    "fields": {
+      "first_name_sel": "input[name*='first'], input[placeholder*='First']",
+      "last_name_sel":  "input[name*='last'], input[placeholder*='Last']",
+      "email_sel":      "input[type='email'], input[name*='email']",
+      "phone_sel":      "input[type='tel'], input[name*='phone']",
+      "message_sel":    "textarea",
+      "submit_sel":     "button[type='submit'], input[type='submit']"
+    },
+    "notes": "Join network form — weekly submission"
+  }
+]

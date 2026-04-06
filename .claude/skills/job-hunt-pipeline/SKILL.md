@@ -158,6 +158,26 @@ For jobs with match_score >= 40, run the applier:
 
 Follow the detailed instructions in `.claude/skills/job-applier/SKILL.md`.
 
+### Stage 5b: Guest Apply — No-Login Vendor Sites
+
+Run the guest apply mini-batch every cycle. This hits 17 pre-vetted sites
+(9 ATS guest-apply + 8 resume-submit forms) that require no account/login:
+
+```bash
+cd /Users/saikrishnamadavarapu/Development/JobBoard && python3 scripts/guest_apply_batch.py
+```
+
+This script:
+- **ATS sites** (Workable, SmartSearch x3, CATSOne, WorkBright, TopEchelon, Aviontego,
+  Applicant Manager): searches for Java jobs on each, applies per listing, skips W2/Lead/Architect
+- **Resume forms** (Alku, Andiamogo, Ascendion, IMCS, Whitridge, WorldBridge, Messina, EquisDifference):
+  submits contact form with profile + resume; 7-day cooldown per site to avoid spam
+- Logs to `data/logs/guest_apply_YYYYMMDD_HHMMSS.log`
+- Updates `data/state.json` total_applications with new applications
+- Tracks last-submitted timestamps in `data/guest_apply_state.json`
+
+Sites config: `data/guest_apply_sites.json` (add/remove sites here)
+
 ### Stage 6: Report
 
 Run the reporter from `.claude/skills/job-reporter/SKILL.md`:
