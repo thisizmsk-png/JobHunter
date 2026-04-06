@@ -62,8 +62,10 @@ COVER_MSG = (
     "South Plainfield, NJ - open to remote and hybrid roles."
 )
 
-JAVA_KEYWORDS = ["java", "spring", "j2ee", "microservices", "full stack java", "fullstack java",
-                  "spring boot", "jvm", "hibernate", "kafka", "aws java"]
+JAVA_KEYWORDS = ["java developer", "java engineer", "java fullstack", "java full stack",
+                  "spring boot", "j2ee", "java microservices", "java backend",
+                  "java application", "java software", "senior java", "sr java",
+                  " java ", "java/", "/java"]
 SKIP_TITLE = ["lead", "architect", "principal", "director", "manager", "vp ", "vice president",
                "chief", " sr. lead", "staff engineer", ".net developer", "python developer",
                "data engineer", "devops", "security engineer", "okta", "salesforce"]
@@ -92,8 +94,12 @@ def dedup_hash(title, company, url):
 
 
 def is_java_job(title, desc=""):
-    text = (title + " " + desc[:300]).lower()
-    return any(kw in text for kw in JAVA_KEYWORDS)
+    title_l = title.lower()
+    desc_l = desc[:300].lower()
+    # Must have java in title OR explicit java keywords
+    if "java" not in title_l and "j2ee" not in title_l and "spring boot" not in title_l:
+        return False
+    return any(kw in title_l or kw in desc_l for kw in JAVA_KEYWORDS)
 
 
 def should_skip_title(title):
@@ -488,13 +494,13 @@ def run_pipeline(batch_num=None, limit=None):
     results = []
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True, args=["--no-sandbox"])
+        browser = p.chromium.launch(headless=True, args=["--no-sandbox", "--disable-blink-features=AutomationControlled"])
         ctx = browser.new_context(
             user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            viewport={"width": 1280, "height": 800},
+            viewport={"width": 1280, "height": 900},
         )
         page = ctx.new_page()
-        page.set_default_timeout(12000)
+        page.set_default_timeout(15000)
 
         for idx, vendor in enumerate(vendors):
             if limit and total_applied >= limit:
@@ -510,8 +516,12 @@ def run_pipeline(batch_num=None, limit=None):
 
             # Navigate to vendor job page
             try:
-                page.goto(vendor_url, timeout=15000, wait_until="domcontentloaded")
-                page.wait_for_timeout(2000)
+                page.goto(vendor_url, timeout=20000, wait_until="domcontentloaded")
+                page.wait_for_timeout(3000)  # wait for JS to render
+                # Scroll to trigger lazy loading
+                page.evaluate("window.scrollTo(0, 500)")
+                page.wait_for_timeout(1000)
+                page.evaluate("window.scrollTo(0, 0)")
             except Exception as e:
                 log(f"  LOAD FAILED: {e}", logfile)
                 total_failed += 1
