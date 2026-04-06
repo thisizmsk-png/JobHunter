@@ -2443,5 +2443,545 @@
     "company": "Group Nine",
     "url": "https://www.dice.com/job-detail/e7810e25-89c0-4631-a4b5-45187daa19ac",
     "easy_apply": true
+  },
+  {
+    "guid": "670a5339-8111-4606-92cf-fd080044d51b",
+    "title": "Senior Java Developer",
+    "company": "Cynet Systems",
+    "url": "https://www.dice.com/job-detail/670a5339-8111-4606-92cf-fd080044d51b",
+    "easy_apply": true,
+    "location": "New York, NY",
+    "posted": "2026-04-03"
+  },
+  {
+    "guid": "8b2c4e62-d3a2-43ba-b323-c91d76464d3c",
+    "title": "AWS/Java developer--- hybrid",
+    "company": "Digitek Software, Inc.",
+    "url": "https://www.dice.com/job-detail/8b2c4e62-d3a2-43ba-b323-c91d76464d3c",
+    "easy_apply": true,
+    "location": "Remote/Hybrid",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "f0dd829c-a906-4820-89ef-6d60cc504d04",
+    "title": "AWS/Java/ETL developer (State Government Experience preferred)",
+    "company": "eSystems, Inc.",
+    "url": "https://www.dice.com/job-detail/f0dd829c-a906-4820-89ef-6d60cc504d04",
+    "easy_apply": true,
+    "location": "Remote",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "1e8a6b91-38a4-4f7e-8597-32259a6381bf",
+    "title": "AWS/Java/ETL Developer",
+    "company": "Cynet Systems",
+    "url": "https://www.dice.com/job-detail/1e8a6b91-38a4-4f7e-8597-32259a6381bf",
+    "easy_apply": true,
+    "location": "Remote",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "ebf2bb9a-94a8-4a51-8f0a-596fa282e83e",
+    "title": "Senior Backend Developer (Java)",
+    "company": "Xoriant Corporation",
+    "url": "https://www.dice.com/job-detail/ebf2bb9a-94a8-4a51-8f0a-596fa282e83e",
+    "easy_apply": true,
+    "location": "Denver/Chicago/Austin (Hybrid)",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "8eedf7e6-5bef-4a15-a094-034e5a5c16c6",
+    "title": "Java FullStack Developer",
+    "company": "Stefanini",
+    "url": "https://www.dice.com/job-detail/8eedf7e6-5bef-4a15-a094-034e5a5c16c6",
+    "easy_apply": true,
+    "location": "Remote",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "7f4d07a0-c5bc-4ba0-b64f-8ce5fca6343f",
+    "title": "Camunda Resources, $70/hr on C2C, Sunrise, FL, Onsite Project",
+    "company": "FASTRA LLC",
+    "url": "https://www.dice.com/job-detail/7f4d07a0-c5bc-4ba0-b64f-8ce5fca6343f",
+    "remote": false,
+    "location": "Sunrise, Florida, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "68db740c-b978-4887-85b6-7e1d4d5b31ec",
+    "title": ".NET WEB DEVELOPER-II - W2/1099 - APPLICANT MUST BE CURRENT WI RESIDENT",
+    "company": "V.L.S. Systems, Inc",
+    "url": "https://www.dice.com/job-detail/68db740c-b978-4887-85b6-7e1d4d5b31ec",
+    "remote": false,
+    "location": "Madison, Wisconsin, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "77a6a9d2-1f0e-435c-8bc6-b540c4cda6c2",
+    "title": "Hiring: Senior AI & Microservices Engineer - Spring/Houston, TX",
+    "company": "PropelSys Technologies LLC.",
+    "url": "https://www.dice.com/job-detail/77a6a9d2-1f0e-435c-8bc6-b540c4cda6c2",
+    "remote": false,
+    "location": "Houston, Texas, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "cd4766fd-2576-4f19-aae7-4e7d148fc1b5",
+    "title": "API Developer",
+    "company": "ZealHire.com",
+    "url": "https://www.dice.com/job-detail/cd4766fd-2576-4f19-aae7-4e7d148fc1b5",
+    "remote": false,
+    "location": "Austin, Texas, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "ee049ff8-39cd-4186-9c4f-0ee4d95dbdc0",
+    "title": "IBM WatsonX Orchestrate",
+    "company": "LiveMindz",
+    "url": "https://www.dice.com/job-detail/ee049ff8-39cd-4186-9c4f-0ee4d95dbdc0",
+    "remote": false,
+    "location": "Hartford, Connecticut, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "339e9bdf-e257-4d04-9de8-0d1f007b2014",
+    "title": "Senior Java Developer",
+    "company": "Zfinity Global",
+    "url": "https://www.dice.com/job-detail/339e9bdf-e257-4d04-9de8-0d1f007b2014",
+    "remote": false,
+    "location": "Madison, Wisconsin, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "9a0dfbe9-0f85-4936-be2f-3a0cc2383234",
+    "title": "Java developer",
+    "company": "Aptino",
+    "url": "https://www.dice.com/job-detail/9a0dfbe9-0f85-4936-be2f-3a0cc2383234",
+    "remote": false,
+    "location": "Concord, North Carolina, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "21b58585-27a3-4acc-ba95-c6ce1a427f85",
+    "title": "Java Backend Developer",
+    "company": "APLOMB Technologies",
+    "url": "https://www.dice.com/job-detail/21b58585-27a3-4acc-ba95-c6ce1a427f85",
+    "remote": false,
+    "location": "Des Moines, Iowa, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "cfa4175e-f433-4c44-9142-2326bdda1339",
+    "title": "Sr Java Developer",
+    "company": "SunTechPros, Inc.",
+    "url": "https://www.dice.com/job-detail/cfa4175e-f433-4c44-9142-2326bdda1339",
+    "remote": false,
+    "location": "Durham, North Carolina, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "0cd4e507-1cab-4d8c-8e8b-fbaf54a03974",
+    "title": "Java Full Stack Developer",
+    "company": "BCforward",
+    "url": "https://www.dice.com/job-detail/0cd4e507-1cab-4d8c-8e8b-fbaf54a03974",
+    "remote": false,
+    "location": "Fort Worth, Texas, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "eebc029c-a6f2-4df5-b88d-fd343fd6714d",
+    "title": "Java Developer",
+    "company": "Compusoft Integrated Solutions, Inc.",
+    "url": "https://www.dice.com/job-detail/eebc029c-a6f2-4df5-b88d-fd343fd6714d",
+    "remote": false,
+    "location": "Mechanicsburg, Pennsylvania, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "21e3d4ef-3a71-4019-94d4-b4e3556ee668",
+    "title": "Kafka Developer",
+    "company": "iTech US, Inc.",
+    "url": "https://www.dice.com/job-detail/21e3d4ef-3a71-4019-94d4-b4e3556ee668",
+    "remote": false,
+    "location": "Dallas, Texas, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "1ca1ef28-16b1-4355-962a-dbb126215f53",
+    "title": "W2 - Fullstack Java Developer - AR",
+    "company": "Octans Group LLC",
+    "url": "https://www.dice.com/job-detail/1ca1ef28-16b1-4355-962a-dbb126215f53",
+    "remote": false,
+    "location": "Bentonville, Arkansas, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "bbd58c15-7c08-41f0-8c05-69b5ee958e8c",
+    "title": "Senior Backend Developer (Java)",
+    "company": "Xoriant Corporation",
+    "url": "https://www.dice.com/job-detail/bbd58c15-7c08-41f0-8c05-69b5ee958e8c",
+    "remote": false,
+    "location": "Denver, Colorado, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "2e5c5c4f-9d5a-4114-94e9-3e868bd48899",
+    "title": "Senior Backend Developer (Java)",
+    "company": "Xoriant Corporation",
+    "url": "https://www.dice.com/job-detail/2e5c5c4f-9d5a-4114-94e9-3e868bd48899",
+    "remote": false,
+    "location": "Chicago, Illinois, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "101c1449-7dab-41d8-b45a-e4009622f45f",
+    "title": "Senior Backend Developer (Java)",
+    "company": "Xoriant Corporation",
+    "url": "https://www.dice.com/job-detail/101c1449-7dab-41d8-b45a-e4009622f45f",
+    "remote": false,
+    "location": "Austin, Texas, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "3561b78f-510a-4d6a-bdaf-dc963d4ee8d9",
+    "title": "Sr. Java developer",
+    "company": "TIA Infotek Inc",
+    "url": "https://www.dice.com/job-detail/3561b78f-510a-4d6a-bdaf-dc963d4ee8d9",
+    "remote": false,
+    "location": "Dallas, Texas, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "06399ee6-5885-4453-895d-09f0e590b9db",
+    "title": "Backend Java Developer",
+    "company": "OrbITpeople",
+    "url": "https://www.dice.com/job-detail/06399ee6-5885-4453-895d-09f0e590b9db",
+    "remote": false,
+    "location": "Georgia, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "9c28d129-7e59-4875-bacb-7cbc46b7f2f6",
+    "title": "Java Back-End Developer with Azure W2",
+    "company": "Cliff Services Inc",
+    "url": "https://www.dice.com/job-detail/9c28d129-7e59-4875-bacb-7cbc46b7f2f6",
+    "remote": false,
+    "location": "Northbrook, Illinois, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "c3cdc2e2-e316-4152-bfc5-d66959e04b22",
+    "title": "Senior Software Engineer",
+    "company": "Aroha Technologies",
+    "url": "https://www.dice.com/job-detail/c3cdc2e2-e316-4152-bfc5-d66959e04b22",
+    "remote": false,
+    "location": "San Leandro, California, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "dc8a34cb-80ef-4966-8432-e360c20be4f1",
+    "title": "613 - Senior Software Engineer",
+    "company": "AIT Global, Inc.",
+    "url": "https://www.dice.com/job-detail/dc8a34cb-80ef-4966-8432-e360c20be4f1",
+    "remote": false,
+    "location": "San Jose, California, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "07762344-37af-4508-855a-6952fb3e0652",
+    "title": "Sr. Software Engineer \u2013 (Python or Java) || Permanent full time Only",
+    "company": "Tanisha Systems, Inc.",
+    "url": "https://www.dice.com/job-detail/07762344-37af-4508-855a-6952fb3e0652",
+    "remote": false,
+    "location": "Woodbridge Township, New Jersey, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "50c98f09-5487-4ef0-ae2f-5c7b7bb0025b",
+    "title": "W2 Role: Java Full Stack With Big Data",
+    "company": "Logicplanet, Inc.",
+    "url": "https://www.dice.com/job-detail/50c98f09-5487-4ef0-ae2f-5c7b7bb0025b",
+    "easy_apply": true,
+    "location": "Richmond, Virginia, USA",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "4ac0ec5b-9da6-4c53-8cfe-0a2b095634dc",
+    "title": "Java Execution Developer",
+    "company": "Finoit Inc.",
+    "url": "https://www.dice.com/job-detail/4ac0ec5b-9da6-4c53-8cfe-0a2b095634dc",
+    "easy_apply": true,
+    "location": "New York, New York, USA",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "021d8f9f-5a6d-4c28-b0da-0fce92ac3dc5",
+    "title": "Java Full-Stack Developer",
+    "company": "Sincera Technologies, Inc.",
+    "url": "https://www.dice.com/job-detail/021d8f9f-5a6d-4c28-b0da-0fce92ac3dc5",
+    "easy_apply": true,
+    "location": "New York, NY (Hybrid)",
+    "posted": "2026-03-31"
+  },
+  {
+    "guid": "9be6b94f-f5be-46aa-a1d9-f9c414aef2e4",
+    "title": "Software Engineer - Back End Java FileNet",
+    "company": "Javen Technologies, Inc",
+    "url": "https://www.dice.com/job-detail/9be6b94f-f5be-46aa-a1d9-f9c414aef2e4",
+    "easy_apply": true,
+    "location": "Cincinnati, Ohio, USA",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "546bb1dd-8c9f-4b0f-9974-023518824bc0",
+    "title": "Java Big Data Developer",
+    "company": "Rapsys Technologies",
+    "url": "https://www.dice.com/job-detail/546bb1dd-8c9f-4b0f-9974-023518824bc0",
+    "easy_apply": true,
+    "location": "Phoenix, Arizona, USA (Hybrid)",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "218039a4-e661-4e8a-80bc-cfc8e0aeba70",
+    "title": "Java Developer",
+    "company": "3Core Systems, Inc",
+    "url": "https://www.dice.com/job-detail/218039a4-e661-4e8a-80bc-cfc8e0aeba70",
+    "easy_apply": true,
+    "location": "McLean, Virginia, USA",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "6c1959d9-108e-4564-9f89-6e364ea71992",
+    "title": "Application Developer-Java/React/Python/BigCommerce Expertise",
+    "company": "CCS Global Tech",
+    "url": "https://www.dice.com/job-detail/6c1959d9-108e-4564-9f89-6e364ea71992?utm_source=claude-user&utm_medium=mcp",
+    "remote": false,
+    "location": "Seattle, Washington, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "199b932c-7d3f-4658-a142-d68eb58cc2c2",
+    "title": "Java FullStack Developer",
+    "company": "Stefanini",
+    "url": "https://www.dice.com/job-detail/199b932c-7d3f-4658-a142-d68eb58cc2c2?utm_source=claude-user&utm_medium=mcp",
+    "remote": false,
+    "location": "Dearborn, Michigan, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "d11c6df4-186b-49ec-8a27-a8620c34ecd4",
+    "title": "Full Stack Java Developer ( React & Node JS Focused)",
+    "company": "Intellisoft Technologies",
+    "url": "https://www.dice.com/job-detail/d11c6df4-186b-49ec-8a27-a8620c34ecd4?utm_source=claude-user&utm_medium=mcp",
+    "remote": false,
+    "location": "Dallas, Texas, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "875214db-e21e-45de-89e4-37c1f3e7f520",
+    "title": "Java Full Stack Developer",
+    "company": "Virtual Networx",
+    "url": "https://www.dice.com/job-detail/875214db-e21e-45de-89e4-37c1f3e7f520?utm_source=claude-user&utm_medium=mcp",
+    "remote": false,
+    "location": "Cincinnati, Ohio, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "fdb668a5-117e-44a9-a611-862f0324e4b9",
+    "title": "UI Developer (React)",
+    "company": "TrueHire Staffing LLC",
+    "url": "https://www.dice.com/job-detail/fdb668a5-117e-44a9-a611-862f0324e4b9?utm_source=claude-user&utm_medium=mcp",
+    "remote": false,
+    "location": "New York, New York, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "c85ab7f2-94e5-4ebe-8f06-e7193f0aba5e",
+    "title": "UI Developer (React)",
+    "company": "TrueHire Staffing LLC",
+    "url": "https://www.dice.com/job-detail/c85ab7f2-94e5-4ebe-8f06-e7193f0aba5e?utm_source=claude-user&utm_medium=mcp",
+    "remote": false,
+    "location": "Charlotte, North Carolina, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "b2396bc4-776d-499c-bdb6-777b64a112cd",
+    "title": "Software Engineer",
+    "company": "Info Way Solutions",
+    "url": "https://www.dice.com/job-detail/b2396bc4-776d-499c-bdb6-777b64a112cd?utm_source=claude-user&utm_medium=mcp",
+    "remote": true,
+    "location": "",
+    "easy_apply": true
+  },
+  {
+    "guid": "2e275940-083b-4e8b-beeb-5517f8d36c12",
+    "title": "Full Stack Java Developer with Angular (Required Local Candidates with prefer Public Sector/healthcare exp)",
+    "company": "TexcelVision Inc.",
+    "url": "https://www.dice.com/job-detail/2e275940-083b-4e8b-beeb-5517f8d36c12?utm_source=claude-user&utm_medium=mcp",
+    "remote": false,
+    "location": "Austin, Texas, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "afb5cb0c-0f07-4dcc-86bf-d591649b017d",
+    "title": "Fullstack Java Developer with Spring Framework and Angular Experience W2",
+    "company": "Cliff Services Inc",
+    "url": "https://www.dice.com/job-detail/afb5cb0c-0f07-4dcc-86bf-d591649b017d?utm_source=claude-user&utm_medium=mcp",
+    "remote": false,
+    "location": "Missouri, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "a961f71f-0c0f-470d-b333-10e92a776361",
+    "title": "Direct Client: Java Angular Full stack Developer  @ Austin, TX  Hybrid  Only Locals",
+    "company": "KSN Technologies, Inc.",
+    "url": "https://www.dice.com/job-detail/a961f71f-0c0f-470d-b333-10e92a776361?utm_source=claude-user&utm_medium=mcp",
+    "remote": false,
+    "location": "Austin, Texas, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "c568c070-4450-4b11-8fe7-36f51106e564",
+    "title": "Systems Analyst 3  Full Stack Developer (Angular/Java)",
+    "company": "Mahantech Corporation",
+    "url": "https://www.dice.com/job-detail/c568c070-4450-4b11-8fe7-36f51106e564?utm_source=claude-user&utm_medium=mcp",
+    "remote": false,
+    "location": "US",
+    "easy_apply": true
+  },
+  {
+    "guid": "da5568ed-1199-4bc7-9aa8-4efcd2d93260",
+    "title": "Full Stack Developers (Angular/Java, AI) - $111 CTC - HYBRID (LOCAL TO AUSTIN AREA ONLY)",
+    "company": "Chandra Technologies,  Inc.",
+    "url": "https://www.dice.com/job-detail/da5568ed-1199-4bc7-9aa8-4efcd2d93260?utm_source=claude-user&utm_medium=mcp",
+    "remote": false,
+    "location": "Austin, Texas, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "6227c754-fa15-428d-8a4d-49051dbd07d2",
+    "title": "Full Stack Developers (Angular/Java) - Only Local to Texas",
+    "company": "NovaLink Solutions",
+    "url": "https://www.dice.com/job-detail/6227c754-fa15-428d-8a4d-49051dbd07d2?utm_source=claude-user&utm_medium=mcp",
+    "remote": false,
+    "location": "Austin, Texas, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "d686aaf6-3426-4585-8693-8327b9c8a086",
+    "title": "Java Fullstack with Angular",
+    "company": "Cynet Systems",
+    "url": "https://www.dice.com/job-detail/d686aaf6-3426-4585-8693-8327b9c8a086?utm_source=claude-user&utm_medium=mcp",
+    "remote": false,
+    "location": "New York, New York, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "8618b566-df50-4f3f-93a1-6f8138c426db",
+    "title": "Full Stack Developer , Java Angular",
+    "company": "PRIMUS Global Services Inc.",
+    "url": "https://www.dice.com/job-detail/8618b566-df50-4f3f-93a1-6f8138c426db?utm_source=claude-user&utm_medium=mcp",
+    "remote": false,
+    "location": "Charlotte, North Carolina, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "583fd657-b6c2-4a72-93ff-e575493861b9",
+    "title": "Front End Angular Developer",
+    "company": "Galent",
+    "url": "https://www.dice.com/job-detail/583fd657-b6c2-4a72-93ff-e575493861b9?utm_source=claude-user&utm_medium=mcp",
+    "remote": false,
+    "location": "Fort Worth, Texas, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "44a48859-884e-4163-8225-d6e6a238e1e2",
+    "title": "Java FullStack Developer",
+    "company": "Stefanini",
+    "url": "https://www.dice.com/job-detail/44a48859-884e-4163-8225-d6e6a238e1e2?utm_source=claude-user&utm_medium=mcp",
+    "remote": false,
+    "location": "Dearborn, Michigan, USA",
+    "easy_apply": true
+  },
+  {
+    "guid": "c3abcc9c-2a56-4782-a4c7-4d563ccfc9bc",
+    "title": "Full Stack Software Engineer",
+    "company": "Group Nine",
+    "url": "https://www.dice.com/job-detail/c3abcc9c-2a56-4782-a4c7-4d563ccfc9bc",
+    "easy_apply": true,
+    "location": "San Diego, CA (Hybrid)",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "f1831243-4252-47f9-9683-170cfc37c735",
+    "title": "Java Developer With Manufacturing Domain",
+    "company": "1 Point System",
+    "url": "https://www.dice.com/job-detail/f1831243-4252-47f9-9683-170cfc37c735",
+    "easy_apply": true,
+    "location": "Moline, Illinois, USA",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "45b6efbe-be1f-4ed4-a3d4-1efb85f5a200",
+    "title": "Inperson (F2F) - Java AWS Developer - Spark, ETL",
+    "company": "Government Systems Technologies Inc. (GSTi)",
+    "url": "https://www.dice.com/job-detail/45b6efbe-be1f-4ed4-a3d4-1efb85f5a200",
+    "easy_apply": true,
+    "location": "New York, New York, USA",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "f612378f-d31c-44b4-8120-d9d3729188e7",
+    "title": "Java Developer",
+    "company": "Enexus Global",
+    "url": "https://www.dice.com/job-detail/f612378f-d31c-44b4-8120-d9d3729188e7",
+    "easy_apply": true,
+    "location": "Alpharetta, Georgia, USA",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "b67430e9-5632-474c-ba4f-0c9415ac2b88",
+    "title": "Sr Java Developer",
+    "company": "Bits & Bytes Technology Solutions",
+    "url": "https://www.dice.com/job-detail/b67430e9-5632-474c-ba4f-0c9415ac2b88",
+    "easy_apply": true,
+    "location": "Schenectady, New York, USA",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "ac35a087-1d05-44a0-8d3c-a2b61a59ac91",
+    "title": "Java/AWS Developer (Onsite interviews - Hybrid)",
+    "company": "Cleo Consulting Inc.",
+    "url": "https://www.dice.com/job-detail/ac35a087-1d05-44a0-8d3c-a2b61a59ac91",
+    "easy_apply": true,
+    "location": "Salt Lake City, Utah, USA",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "ec59ca07-c983-4fd9-928f-7dcef178f3e8",
+    "title": "Java Developer with FHIR API in Remote",
+    "company": "Technogen, Inc.",
+    "url": "https://www.dice.com/job-detail/ec59ca07-c983-4fd9-928f-7dcef178f3e8",
+    "easy_apply": true,
+    "location": "US",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "09db098d-59ba-41b9-963c-a041155cad61",
+    "title": "JAVA FULL STACK DEVELOPER",
+    "company": "ALIS Software",
+    "url": "https://www.dice.com/job-detail/09db098d-59ba-41b9-963c-a041155cad61",
+    "easy_apply": true,
+    "location": "Charlotte, North Carolina, USA",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "8bc23d0e-1b60-4591-a41c-ab2e7ffca7fd",
+    "title": "Java Script Enterprise Web Developer Node.JS, React, GraphQL",
+    "company": "PRIMUS Global Services Inc.",
+    "url": "https://www.dice.com/job-detail/8bc23d0e-1b60-4591-a41c-ab2e7ffca7fd",
+    "easy_apply": true,
+    "location": "Sunnyvale, California, USA",
+    "posted": "2026-04-06"
   }
 ]

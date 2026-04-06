@@ -1,0 +1,65 @@
+[
+  {
+    "guid": "670a5339-8111-4606-92cf-fd080044d51b",
+    "title": "Senior Java Developer",
+    "company": "Cynet Systems",
+    "url": "https://www.dice.com/job-detail/670a5339-8111-4606-92cf-fd080044d51b",
+    "easy_apply": true,
+    "location": "New York, NY",
+    "posted": "2026-04-03"
+  },
+  {
+    "guid": "8b2c4e62-d3a2-43ba-b323-c91d76464d3c",
+    "title": "AWS/Java developer--- hybrid",
+    "company": "Digitek Software, Inc.",
+    "url": "https://www.dice.com/job-detail/8b2c4e62-d3a2-43ba-b323-c91d76464d3c",
+    "easy_apply": true,
+    "location": "Remote/Hybrid",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "f0dd829c-a906-4820-89ef-6d60cc504d04",
+    "title": "AWS/Java/ETL developer (State Government Experience preferred)",
+    "company": "eSystems, Inc.",
+    "url": "https://www.dice.com/job-detail/f0dd829c-a906-4820-89ef-6d60cc504d04",
+    "easy_apply": true,
+    "location": "Remote",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "1e8a6b91-38a4-4f7e-8597-32259a6381bf",
+    "title": "AWS/Java/ETL Developer",
+    "company": "Cynet Systems",
+    "url": "https://www.dice.com/job-detail/1e8a6b91-38a4-4f7e-8597-32259a6381bf",
+    "easy_apply": true,
+    "location": "Remote",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "ebf2bb9a-94a8-4a51-8f0a-596fa282e83e",
+    "title": "Senior Backend Developer (Java)",
+    "company": "Xoriant Corporation",
+    "url": "https://www.dice.com/job-detail/ebf2bb9a-94a8-4a51-8f0a-596fa282e83e",
+    "easy_apply": true,
+    "location": "Denver/Chicago/Austin (Hybrid)",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "8eedf7e6-5bef-4a15-a094-034e5a5c16c6",
+    "title": "Java FullStack Developer",
+    "company": "Stefanini",
+    "url": "https://www.dice.com/job-detail/8eedf7e6-5bef-4a15-a094-034e5a5c16c6",
+    "easy_apply": true,
+    "location": "Remote",
+    "posted": "2026-04-06"
+  },
+  {
+    "guid": "e9e72be4-d8a5-4c26-b3dd-31947edc6ade",
+    "title": "Java FileNet Developer",
+    "company": "Javen Technologies, Inc",
+    "url": "https://www.dice.com/job-detail/e9e72be4-d8a5-4c26-b3dd-31947edc6ade",
+    "easy_apply": true,
+    "location": "Cincinnati OH (Remote/Hybrid)",
+    "posted": "2026-04-06"
+  }
+]

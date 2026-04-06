@@ -1,0 +1,150 @@
+{
+  "search_params": {
+    "keywords": "Spring Boot Microservices contract",
+    "location": "United States",
+    "employment_types": [
+      "CONTRACTS"
+    ],
+    "easy_apply": true,
+    "posted_date": "ONE",
+    "results_wanted": 30
+  },
+  "scraped_at": "2026-04-06T09:49:09.329906",
+  "count": 3,
+  "meta": {
+    "currentPage": 1,
+    "pageSize": 30,
+    "pageCount": 1,
+    "totalResults": 3,
+    "selectedFilters": [
+      {
+        "filterName": "easyApply",
+        "displayName": "Easy Apply",
+        "selectedItems": [
+          {
+            "value": "true",
+            "displayValue": "true"
+          }
+        ]
+      },
+      {
+        "filterName": "employmentType",
+        "displayName": "Employment Type",
+        "selectedItems": [
+          {
+            "value": "CONTRACTS",
+            "displayValue": "Contract"
+          }
+        ]
+      },
+      {
+        "filterName": "postedDate",
+        "displayName": "Posted Date",
+        "selectedItems": [
+          {
+            "value": "ONE",
+            "displayValue": "ONE"
+          }
+        ]
+      }
+    ],
+    "recommendedSearches": {},
+    "searchedLocation": {
+      "countryCode2": "US",
+      "radius": 30,
+      "radiusUnit": "mi"
+    },
+    "searchId": "f7deb715-699c-4844-8d93-035cb2a65b23",
+    "totalJobCount": 78611,
+    "includeRemote": false,
+    "sortBy": "relevance"
+  },
+  "jobs": [
+    {
+      "id": "631622d90f4f1405cdd46efb488c1c5d",
+      "title": "Java Developer",
+      "jobLocation": {
+        "city": "Edison",
+        "state": "New Jersey",
+        "country": "USA",
+        "region": "NJ",
+        "displayName": "Edison, New Jersey, USA"
+      },
+      "postedDate": "2026-04-06T14:46:18Z",
+      "detailsPageUrl": "https://www.dice.com/job-detail/696b062f-1d48-4544-8c76-5436f971cfaf",
+      "companyPageUrl": "https://www.dice.com/company/10411276",
+      "companyLogoUrl": "https://d3qscgr6xsioh.cloudfront.net/4BkKrATStum2jOIqdxzr_logo.png?format=webp",
+      "salary": "Depends on Experience",
+      "clientBrandId": "10411276",
+      "companyName": "K-Tek Resourcing LLC",
+      "employmentType": "Contract, Third Party",
+      "summary": "Job Title: Java SB&M, Lead (Need only Local with DL)Location:  Charlotte, NC and Edison, NJ (Face-to-Face Interview Mandatory)Duration: Long TermVisa: USC/ GC-EAD/TN/OPTJob Description (Posting).=JavaSpring BootSpringKafkaMango DBReactiveMicro ServicesJD 10+ years application development experience Java, Springboot, Microservices, Kafka, MongoDB, OCP Architect and design enterprise-scale solutions across payments domains Payments Transformation expertise with SWIFT, FED, CHIPS experience prefera",
+      "jobId": "631622d90f4f1405cdd46efb488c1c5d",
+      "score": 9384.144,
+      "easyApply": true,
+      "willingToSponsor": false,
+      "employerType": "Direct Hire",
+      "workFromHomeAvailability": "FALSE",
+      "modifiedDate": "2026-04-06T16:42:37Z",
+      "firstActiveDate": "2026-04-06T14:46:18Z",
+      "guid": "696b062f-1d48-4544-8c76-5436f971cfaf"
+    },
+    {
+      "id": "fbdb3004d2cd0b0accde1dc101cc8e0a",
+      "title": "Senior Software Engineer",
+      "jobLocation": {
+        "city": "San Leandro",
+        "state": "California",
+        "country": "USA",
+        "region": "CA",
+        "displayName": "San Leandro, California, USA"
+      },
+      "postedDate": "2026-04-06T11:46:00Z",
+      "detailsPageUrl": "https://www.dice.com/job-detail/c3cdc2e2-e316-4152-bfc5-d66959e04b22",
+      "companyPageUrl": "https://www.dice.com/company/10515154",
+      "companyLogoUrl": "https://assets.dice.com/external/images/empLogos/37ebcc704dd75c73d00e75d9e3eba79f.png",
+      "clientBrandId": "10515154",
+      "companyName": "Aroha Technologies",
+      "employmentType": "Contract, Third Party",
+      "summary": "Role: Senior Software Engineer San Leandro, CA 10+ years application development experience Java, Springboot, Microservices, Kafka, MongoDB, OCP Required Skills & Qualifications: 10+ years of experience in software development Strong proficiency in Java and Spring Boot Hands-on experience with Microservices architecture Experience with Apache Kafka or similar messaging systems Strong experience with MongoDB or other NoSQL databases Experience with OpenShift (OCP) or other container orchestration",
+      "jobId": "fbdb3004d2cd0b0accde1dc101cc8e0a",
+      "score": 8850.461,
+      "easyApply": true,
+      "willingToSponsor": false,
+      "employerType": "Direct Hire",
+      "workFromHomeAvailability": "FALSE",
+      "modifiedDate": "2026-04-06T11:46:00Z",
+      "firstActiveDate": "2026-04-06T11:46:00Z",
+      "guid": "c3cdc2e2-e316-4152-bfc5-d66959e04b22"
+    },
+    {
+      "id": "e08871961723eff995eaf44a05c32de9",
+      "title": "Java/API Architect",
+      "jobLocation": {
+        "city": "Buffalo",
+        "state": "New York",
+        "country": "USA",
+        "region": "NY",
+        "displayName": "Buffalo, New York, USA"
+      },
+      "postedDate": "2026-04-06T13:49:35Z",
+      "detailsPageUrl": "https://www.dice.com/job-detail/21a859ce-a5f1-4253-9118-726e08a72bb0",
+      "companyPageUrl": "https://www.dice.com/company/91130423",
+      "companyLogoUrl": "https://d3qscgr6xsioh.cloudfront.net/myaIMjX1TxGEZjmfyzJI_f7953284567cbe6beaf5938e50148825.png?format=webp",
+      "salary": "$60 - $70",
+      "clientBrandId": "91130423",
+      "companyName": "Bottech",
+      "employmentType": "Contract",
+      "summary": "Job Title: Java/API Architect Location: Buffalo, New York (Hybrid 3 days on-site / 2 days remote)Duration: ContarctInterview: Phone & Webex About the RoleWe are seeking an accomplished API Architect to join our Technology Division in Buffalo, New York. In this hybrid role, you will lead the design, governance, and strategic evolution of enterprise-grade API ecosystems serving our banking and financial services platforms. You will play a pivotal role in enabling digital transformation by building",
+      "jobId": "e08871961723eff995eaf44a05c32de9",
+      "score": 21.436783,
+      "easyApply": true,
+      "willingToSponsor": false,
+      "employerType": "Direct Hire",
+      "workFromHomeAvailability": "FALSE",
+      "modifiedDate": "2026-04-06T13:49:35Z",
+      "firstActiveDate": "2026-04-06T13:49:35Z",
+      "guid": "21a859ce-a5f1-4253-9118-726e08a72bb0"
+    }
+  ]
+}

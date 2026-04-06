@@ -1,0 +1,209 @@
+{
+  "search_params": {
+    "keywords": "Java Full Stack React contract C2C",
+    "location": "United States",
+    "employment_types": [
+      "CONTRACTS"
+    ],
+    "easy_apply": true,
+    "posted_date": "ONE",
+    "results_wanted": 30
+  },
+  "scraped_at": "2026-04-06T09:49:11.807941",
+  "count": 5,
+  "meta": {
+    "currentPage": 1,
+    "pageSize": 30,
+    "pageCount": 1,
+    "totalResults": 5,
+    "selectedFilters": [
+      {
+        "filterName": "easyApply",
+        "displayName": "Easy Apply",
+        "selectedItems": [
+          {
+            "value": "true",
+            "displayValue": "true"
+          }
+        ]
+      },
+      {
+        "filterName": "employmentType",
+        "displayName": "Employment Type",
+        "selectedItems": [
+          {
+            "value": "CONTRACTS",
+            "displayValue": "Contract"
+          }
+        ]
+      },
+      {
+        "filterName": "postedDate",
+        "displayName": "Posted Date",
+        "selectedItems": [
+          {
+            "value": "ONE",
+            "displayValue": "ONE"
+          }
+        ]
+      }
+    ],
+    "recommendedSearches": {},
+    "searchedLocation": {
+      "countryCode2": "US",
+      "radius": 30,
+      "radiusUnit": "mi"
+    },
+    "searchId": "c6759477-fea3-4b1a-bb34-daebf8cf76f4",
+    "totalJobCount": 78611,
+    "includeRemote": false,
+    "sortBy": "relevance"
+  },
+  "jobs": [
+    {
+      "id": "1e025d74386124618e26fa1cafd377b0",
+      "title": "W2 - Fullstack Java Developer - AR",
+      "jobLocation": {
+        "city": "Bentonville",
+        "state": "Arkansas",
+        "country": "USA",
+        "region": "AR",
+        "displayName": "Bentonville, Arkansas, USA"
+      },
+      "postedDate": "2026-04-06T15:32:52Z",
+      "detailsPageUrl": "https://www.dice.com/job-detail/1ca1ef28-16b1-4355-962a-dbb126215f53",
+      "companyPageUrl": "https://www.dice.com/company/91172085",
+      "companyLogoUrl": "https://d3qscgr6xsioh.cloudfront.net/ZUPF9vdQAmf6c0mxKOA6_images.jpg?format=webp",
+      "salary": "Depends on Experience",
+      "clientBrandId": "91172085",
+      "companyName": "Octans Group LLC",
+      "employmentType": "Contract, Third Party",
+      "summary": "Must be able to wok on W2    Job Title: Fullstack Java Developer (React + Java) Location: Arkansas (Day 1 Onsite  Relocation Required)   Job Summary: We are looking for a strong Fullstack Developer with expertise in Java (Backend) and React (Frontend) to build scalable, high-performance applications. This role involves working on large-scale eCommerce and marketing platforms with modern cloud technologies.   Key Skills:  Strong experience in Java, Spring Boot, Microservices Frontend experience w",
+      "jobId": "1e025d74386124618e26fa1cafd377b0",
+      "score": 8687.692,
+      "easyApply": true,
+      "willingToSponsor": false,
+      "employerType": "Recruiter",
+      "workFromHomeAvailability": "FALSE",
+      "modifiedDate": "2026-04-06T15:32:52Z",
+      "firstActiveDate": "2026-04-06T15:32:52Z",
+      "guid": "1ca1ef28-16b1-4355-962a-dbb126215f53"
+    },
+    {
+      "id": "f9c3d52306e9050b072fd3c25a30f3b1",
+      "title": "Java Full Stack Developer - Albany, NY",
+      "jobLocation": {
+        "city": "Albany",
+        "state": "New York",
+        "country": "USA",
+        "region": "NY",
+        "displayName": "Albany, New York, USA"
+      },
+      "postedDate": "2026-04-06T14:12:41Z",
+      "detailsPageUrl": "https://www.dice.com/job-detail/1490d5a5-55b2-4273-a28f-a0aff088599b",
+      "companyPageUrl": "https://www.dice.com/company/90769281",
+      "companyLogoUrl": "https://d3qscgr6xsioh.cloudfront.net/Mu0NUpOVTTuOWQUMyAWB_cd71d8c462c0735d92eac2376a90dc36.png?format=webp",
+      "salary": "Depends on Experience",
+      "clientBrandId": "90769281",
+      "companyName": "ICore Infotech",
+      "employmentType": "Contract",
+      "summary": "Position Name: Java Full Stack DeveloperDuration: 24 Months Location: Albany, NY (3 days Onsite per week)Primary Skills:Experience in designing/architecting full stack applications using React, TypeScript, and Node.js, including state management with Redux and client-side routing such as React Router or Tanstack Router.Experience with relational database design and development including Oracle (PL/SQL) and PostgreSQL.Experience designing and implementing RESTful APIs and microservices architectu",
+      "jobId": "f9c3d52306e9050b072fd3c25a30f3b1",
+      "score": 8393.379,
+      "easyApply": true,
+      "willingToSponsor": false,
+      "employerType": "Direct Hire",
+      "workFromHomeAvailability": "FALSE",
+      "modifiedDate": "2026-04-06T14:12:41Z",
+      "firstActiveDate": "2026-04-06T14:12:41Z",
+      "guid": "1490d5a5-55b2-4273-a28f-a0aff088599b"
+    },
+    {
+      "id": "cf13411986ffd09b256aa42609035b85",
+      "title": "Java Script Enterprise Web Developer Node.JS, React, GraphQL",
+      "jobLocation": {
+        "city": "Sunnyvale",
+        "state": "California",
+        "country": "USA",
+        "region": "CA",
+        "displayName": "Sunnyvale, California, USA"
+      },
+      "postedDate": "2026-04-06T16:16:08Z",
+      "detailsPageUrl": "https://www.dice.com/job-detail/8bc23d0e-1b60-4591-a41c-ab2e7ffca7fd",
+      "companyPageUrl": "https://www.dice.com/company/10117354",
+      "companyLogoUrl": "https://d3qscgr6xsioh.cloudfront.net/PxLoF35RaeIxtd2KjIq8_logo.jpg?format=webp",
+      "salary": "$65.00 - 70.00",
+      "clientBrandId": "10117354",
+      "companyName": "PRIMUS Global Services Inc.",
+      "employmentType": "Contract",
+      "summary": "Java Script Enterprise Web Developer Node.JS, React, GraphQL  We have an immediate need for a Java Script Enterprise Web Developer Node.JS, React, GraphQL with supporting the International Tech and Digital Experiences team focused on product page development. This is a Senior/Staff level role requiring strong React and modern JavaScript expertise combined with Node.js (NodeNestNext) and GraphQL to build scalable, high-performance web applications. The role involves heavy hands-on coding and syst",
+      "jobId": "cf13411986ffd09b256aa42609035b85",
+      "score": 181.1091,
+      "easyApply": true,
+      "willingToSponsor": false,
+      "employerType": "Recruiter",
+      "workFromHomeAvailability": "FALSE",
+      "modifiedDate": "2026-04-06T16:16:08Z",
+      "firstActiveDate": "2026-04-06T16:16:08Z",
+      "guid": "8bc23d0e-1b60-4591-a41c-ab2e7ffca7fd"
+    },
+    {
+      "id": "038a171723811675fe8471d24c2b7318",
+      "title": "JAVA FULL STACK DEVELOPER",
+      "jobLocation": {
+        "city": "Charlotte",
+        "state": "North Carolina",
+        "country": "USA",
+        "region": "NC",
+        "displayName": "Charlotte, North Carolina, USA"
+      },
+      "postedDate": "2026-04-06T15:53:01Z",
+      "detailsPageUrl": "https://www.dice.com/job-detail/09db098d-59ba-41b9-963c-a041155cad61",
+      "companyPageUrl": "https://www.dice.com/company/90709585",
+      "companyLogoUrl": "https://d3qscgr6xsioh.cloudfront.net/UUkL7fgfTXy2K3rj9o6o_transformed.png?format=webp",
+      "salary": "Depends on Experience",
+      "clientBrandId": "90709585",
+      "companyName": "ALIS Software",
+      "employmentType": "Third Party, Contract",
+      "summary": "JOB DESCRIPTIONPOSITION: JAVA FULL STACK DEVELOPER DURATION: Long term Location: NORTH CAROLINA, CHARLOTTE - Onsite  Job DescriptionKey ResponsibilitiesDevelop and maintain robust backend systems using Java and Spring BootDesign and implement RESTful APIs and microservicesCollaborate with UI teams to deliver end-to-end full stack solutionsWrite high-quality, scalable, and maintainable codePerform code reviews, debugging, and performance tuningWork with relational databases and optimize queriesSu",
+      "jobId": "038a171723811675fe8471d24c2b7318",
+      "score": 156.1084,
+      "easyApply": true,
+      "willingToSponsor": false,
+      "employerType": "Direct Hire",
+      "workFromHomeAvailability": "FALSE",
+      "modifiedDate": "2026-04-06T15:53:01Z",
+      "firstActiveDate": "2026-04-06T15:53:01Z",
+      "guid": "09db098d-59ba-41b9-963c-a041155cad61"
+    },
+    {
+      "id": "f50a3a25d96888c498309345b30041a0",
+      "title": "Java Full Stack Developer",
+      "jobLocation": {
+        "city": "Phoenix",
+        "state": "Arizona",
+        "country": "USA",
+        "region": "AZ",
+        "displayName": "Phoenix, Arizona, USA"
+      },
+      "postedDate": "2026-04-06T14:41:00Z",
+      "detailsPageUrl": "https://www.dice.com/job-detail/dce7ca8f-64c7-4b93-bf68-a639ad1cb51c",
+      "companyPageUrl": "https://www.dice.com/company/91171021",
+      "companyLogoUrl": "https://cdn.filestackcontent.com/iaMaDWzQmaLgSmUudfx3",
+      "salary": "Depends on Experience",
+      "clientBrandId": "91171021",
+      "companyName": "Rapsys Technologies",
+      "employmentType": "Contract, Third Party",
+      "summary": "Java Fullstack Developer \"Java8, Spring boot Databases: Postgres, MongoDB, Redis Source Code Control: Working experience using GitHub, Bitbucket, RhodeCode OpenSearch/Elasticsearch, ELF) Thorough understanding of React.js or similar frontend technologies and its core principals Experience with popular React.js and its core principals Strong proficiency in Javascript, including DOM manipulation and the Javscript object model Experience with React.js workflows Knowledge of REST APIs Knowledge of m",
+      "jobId": "f50a3a25d96888c498309345b30041a0",
+      "score": 26.431826,
+      "easyApply": true,
+      "willingToSponsor": true,
+      "employerType": "Recruiter",
+      "workFromHomeAvailability": "FALSE",
+      "modifiedDate": "2026-04-06T14:41:00Z",
+      "firstActiveDate": "2026-04-06T14:41:00Z",
+      "guid": "dce7ca8f-64c7-4b93-bf68-a639ad1cb51c"
+    }
+  ]
+}
