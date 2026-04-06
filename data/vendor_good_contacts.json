@@ -1,0 +1,72 @@
+[
+  {
+    "name": "1872 Consulting",
+    "contact_url": "https://www.1872consulting.com/contact/",
+    "has_name": true,
+    "has_file": false,
+    "url": "https://www.1872consulting.com/contact/"
+  },
+  {
+    "name": "a2c",
+    "contact_url": "http://www.a2c.com/contact/",
+    "has_name": false,
+    "has_file": false,
+    "url": "http://www.a2c.com/contact/"
+  },
+  {
+    "name": "Aeries Technology",
+    "contact_url": "https://aeriestechnology.com/contact/",
+    "has_name": false,
+    "has_file": false,
+    "url": "https://aeriestechnology.com/contact/"
+  },
+  {
+    "name": "Allstemconnections",
+    "contact_url": "https://www.allstemconnections.com/contact-us/",
+    "has_name": false,
+    "has_file": false,
+    "url": "https://www.allstemconnections.com/contact-us/"
+  },
+  {
+    "name": "Ameri & Partners",
+    "contact_url": "https://ameriinfo.com/contact/",
+    "has_name": true,
+    "has_file": false,
+    "url": "https://ameriinfo.com/contact/"
+  },
+  {
+    "name": "Asset Employment Group",
+    "contact_url": "https://www.assetemploymentgroup.com/contact/",
+    "has_name": true,
+    "has_file": true,
+    "url": "https://www.assetemploymentgroup.com/contact/"
+  },
+  {
+    "name": "Cogent Infotech",
+    "contact_url": "https://www.cogentinfo.com/contact-us/",
+    "has_name": true,
+    "has_file": false,
+    "url": "https://www.cogentinfo.com/contact-us/"
+  },
+  {
+    "name": "Collabera Inc.",
+    "contact_url": "https://collabera.com/submit-resume/",
+    "has_name": true,
+    "has_file": true,
+    "url": "https://collabera.com/submit-resume/"
+  },
+  {
+    "name": "Collabera Inc.",
+    "contact_url": "https://www.collabera.com/submit-resume/",
+    "has_name": true,
+    "has_file": true,
+    "url": "https://www.collabera.com/submit-resume/"
+  },
+  {
+    "name": "CPS 4 Jobs",
+    "contact_url": "https://jobs.cps4jobs.com/contact/",
+    "has_name": false,
+    "has_file": false,
+    "url": "https://jobs.cps4jobs.com/contact/"
+  }
+]
