@@ -1764,5 +1764,649 @@
     "company": "BCforward",
     "url": "https://www.dice.com/job-detail/33c94001-b5b0-4220-9285-4bac47325c28",
     "easy_apply": true
+  },
+  {
+    "guid": "09a9a206-2d57-47fa-8c7c-37b0ed77f0bc",
+    "title": "Sr. Java Developer_Commodity_Trading_Endur_TX",
+    "company": "Synechron",
+    "url": "https://www.dice.com/job-detail/09a9a206-2d57-47fa-8c7c-37b0ed77f0bc",
+    "easy_apply": true
+  },
+  {
+    "guid": "5594e56f-90cb-4a8c-84f6-6621f47bd28b",
+    "title": "Java Engineer + AWS Cloud Engineer",
+    "company": "Mastech Digital",
+    "url": "https://www.dice.com/job-detail/5594e56f-90cb-4a8c-84f6-6621f47bd28b",
+    "easy_apply": true
+  },
+  {
+    "guid": "5dbca418-2e41-4dae-8b90-cf4b2d62c35b",
+    "title": "Java Developer",
+    "company": "HPTech Inc.",
+    "url": "https://www.dice.com/job-detail/5dbca418-2e41-4dae-8b90-cf4b2d62c35b",
+    "easy_apply": true
+  },
+  {
+    "guid": "785a7a24-927d-44d2-965b-b680310291c6",
+    "title": "Java Developer at Charlotte, NC and Edison, NJ (Onsite W2 only)",
+    "company": "HPTech Inc.",
+    "url": "https://www.dice.com/job-detail/785a7a24-927d-44d2-965b-b680310291c6",
+    "easy_apply": true
+  },
+  {
+    "guid": "af5290fa-09d3-4b71-a75b-eeb56a890238",
+    "title": "Java Developer",
+    "company": "V-Soft Consulting Group, Inc",
+    "url": "https://www.dice.com/job-detail/af5290fa-09d3-4b71-a75b-eeb56a890238",
+    "easy_apply": true
+  },
+  {
+    "guid": "5750437e-bf61-46a1-96df-f14433592dc8",
+    "title": "Java Developer",
+    "company": "Vertisystem Inc.",
+    "url": "https://www.dice.com/job-detail/5750437e-bf61-46a1-96df-f14433592dc8",
+    "easy_apply": true
+  },
+  {
+    "guid": "81a8e3e3-29e1-4722-b088-8dd46c08ffd4",
+    "title": "Java Developer",
+    "company": "Codeforce 360",
+    "url": "https://www.dice.com/job-detail/81a8e3e3-29e1-4722-b088-8dd46c08ffd4",
+    "easy_apply": true
+  },
+  {
+    "guid": "bc61ca84-00dd-4192-9709-f76418844510",
+    "title": "Java Developer (W2 only)",
+    "company": "HPTech Inc.",
+    "url": "https://www.dice.com/job-detail/bc61ca84-00dd-4192-9709-f76418844510",
+    "easy_apply": true
+  },
+  {
+    "guid": "20337743-43bf-472d-9582-c1ee1ba6fd6e",
+    "title": "Java Full Stack Developer",
+    "company": "HPTech Inc.",
+    "url": "https://www.dice.com/job-detail/20337743-43bf-472d-9582-c1ee1ba6fd6e",
+    "easy_apply": true
+  },
+  {
+    "guid": "7dce6d9e-50ef-46da-aa63-8516202a9038",
+    "title": "Java Backend Services Developer IV",
+    "company": "V-Soft Consulting Group, Inc",
+    "url": "https://www.dice.com/job-detail/7dce6d9e-50ef-46da-aa63-8516202a9038",
+    "easy_apply": true
+  },
+  {
+    "guid": "c354c4af-59da-4ddb-a2d1-2c69d2862944",
+    "title": "Quality Analyst (Tester) Java / Mainframe (previously DOL experience is must)",
+    "company": "Cuboid IT Solutions",
+    "url": "https://www.dice.com/job-detail/c354c4af-59da-4ddb-a2d1-2c69d2862944",
+    "easy_apply": true
+  },
+  {
+    "guid": "0a046c88-9f3c-4c78-8740-2a50484cf167",
+    "title": "In person Interview (10+ yr) - Sr. Java Developer (AI Focus) - White Plains, NY - $55/hr CTC",
+    "company": "MetaSense, Inc.",
+    "url": "https://www.dice.com/job-detail/0a046c88-9f3c-4c78-8740-2a50484cf167",
+    "easy_apply": true
+  },
+  {
+    "guid": "5c336047-3b01-4154-a180-42d0f094fc48",
+    "title": "Java Developer (AI Focus).- White Plains, NY (Hybrid)",
+    "company": "MetaSense, Inc.",
+    "url": "https://www.dice.com/job-detail/5c336047-3b01-4154-a180-42d0f094fc48",
+    "easy_apply": true
+  },
+  {
+    "guid": "3e53c635-c8b6-47b2-9008-2b10333c05d2",
+    "title": "Sr Angular Consultant (100% Remote)-16+ Yrs (Mandatory)",
+    "company": "Expedite Technology Solutions",
+    "url": "https://www.dice.com/job-detail/3e53c635-c8b6-47b2-9008-2b10333c05d2",
+    "easy_apply": true
+  },
+  {
+    "guid": "653264e2-0990-4ad7-828e-60c932ea85ae",
+    "title": "Java Developer",
+    "company": "Pyramid Technology Solutions, Inc.",
+    "url": "https://www.dice.com/job-detail/653264e2-0990-4ad7-828e-60c932ea85ae",
+    "easy_apply": true
+  },
+  {
+    "guid": "1ec4e89c-7dc5-473e-be43-c67e5631074a",
+    "title": "Senior Java & .NET Developer",
+    "company": "Triune Infomatics Inc",
+    "url": "https://www.dice.com/job-detail/1ec4e89c-7dc5-473e-be43-c67e5631074a",
+    "easy_apply": true
+  },
+  {
+    "guid": "c27ad616-d799-4299-9cbb-057daa2e9218",
+    "title": "Cloud Full Stack Developer Expert",
+    "company": "Data Resource Technologies",
+    "url": "https://www.dice.com/job-detail/c27ad616-d799-4299-9cbb-057daa2e9218",
+    "easy_apply": true
+  },
+  {
+    "guid": "419d2372-83a7-4cce-a737-c2980ecf16da",
+    "title": "Scala Developer",
+    "company": "Vinsari LLC",
+    "url": "https://www.dice.com/job-detail/419d2372-83a7-4cce-a737-c2980ecf16da",
+    "easy_apply": true
+  },
+  {
+    "guid": "64658591-20a4-4b67-9f46-6467beb513f2",
+    "title": "Java Full Stack Developer (React JS + Kotlin)- W2",
+    "company": "Cliff Services Inc",
+    "url": "https://www.dice.com/job-detail/64658591-20a4-4b67-9f46-6467beb513f2",
+    "easy_apply": true
+  },
+  {
+    "guid": "acfba45e-b7dd-4d45-86cc-57334ced1fbe",
+    "title": "API Developer",
+    "company": "Amtex Enterprises",
+    "url": "https://www.dice.com/job-detail/acfba45e-b7dd-4d45-86cc-57334ced1fbe",
+    "easy_apply": true
+  },
+  {
+    "guid": "efb090d7-72e5-4381-8af1-e66209513edf",
+    "title": "Java Full-Stack developer",
+    "company": "APN Software Services, Inc",
+    "url": "https://www.dice.com/job-detail/efb090d7-72e5-4381-8af1-e66209513edf",
+    "easy_apply": true
+  },
+  {
+    "guid": "2ef1463c-d409-47c3-b6a7-c8394f027ba4",
+    "title": "Python Developer with Java 8 experience in Mclean VA (Local or nearby candidates for F2F Interview)",
+    "company": "Visionsoft International",
+    "url": "https://www.dice.com/job-detail/2ef1463c-d409-47c3-b6a7-c8394f027ba4",
+    "easy_apply": true
+  },
+  {
+    "guid": "d311b37d-6272-4134-9cd4-9a442c06d1c9",
+    "title": "Need Locals: Full Stack Java Developer -- Hopkins, MN /Hybrid Onsite /W2/",
+    "company": "Intellisoft Technologies",
+    "url": "https://www.dice.com/job-detail/d311b37d-6272-4134-9cd4-9a442c06d1c9",
+    "easy_apply": true
+  },
+  {
+    "guid": "022f970c-be7a-48ee-947e-70c8831ae202",
+    "title": "Full Stack Developer",
+    "company": "Stefanini",
+    "url": "https://www.dice.com/job-detail/022f970c-be7a-48ee-947e-70c8831ae202",
+    "easy_apply": true
+  },
+  {
+    "guid": "0dcbfd85-6066-4141-9768-458c31e1ed93",
+    "title": "Google Cloud Platform Cloud Engineer",
+    "company": "Stefanini",
+    "url": "https://www.dice.com/job-detail/0dcbfd85-6066-4141-9768-458c31e1ed93",
+    "easy_apply": true
+  },
+  {
+    "guid": "d1a9fff1-2ea4-45c5-8404-6883d9d2646b",
+    "title": "Fullstack Java Developer in Mclean, VA (Local or nearby candidates for F2F interview)arby",
+    "company": "Visionsoft International",
+    "url": "https://www.dice.com/job-detail/d1a9fff1-2ea4-45c5-8404-6883d9d2646b",
+    "easy_apply": true
+  },
+  {
+    "guid": "ae5e3bf1-717d-41ad-80d8-57c83ef2ba20",
+    "title": "Java Developer with Azure & Event Grid",
+    "company": "Infinity Tech Group Inc",
+    "url": "https://www.dice.com/job-detail/ae5e3bf1-717d-41ad-80d8-57c83ef2ba20",
+    "easy_apply": true
+  },
+  {
+    "guid": "55cc2f4e-87b8-4186-8137-b1500ef6dae5",
+    "title": "Java AWS Developer",
+    "company": "THE TILTED CIRCLE LLC",
+    "url": "https://www.dice.com/job-detail/55cc2f4e-87b8-4186-8137-b1500ef6dae5",
+    "easy_apply": true
+  },
+  {
+    "guid": "7f1ba218-8b6f-43a5-99e7-c4b74a69aa89",
+    "title": "Software Developer / Application Support",
+    "company": "Idexcel Inc.",
+    "url": "https://www.dice.com/job-detail/7f1ba218-8b6f-43a5-99e7-c4b74a69aa89",
+    "easy_apply": true
+  },
+  {
+    "guid": "f6abe8c9-32aa-488b-998e-1d68943883d3",
+    "title": "Java Developer (Data / ML Platform)",
+    "company": "ConglomerateIT",
+    "url": "https://www.dice.com/job-detail/f6abe8c9-32aa-488b-998e-1d68943883d3",
+    "easy_apply": true
+  },
+  {
+    "guid": "e3b2739b-adc0-4e9e-b28c-b4a87fecaf38",
+    "title": "Back-End Engineer (Flexcube / OBPM) \u2013 Visa B2B Connect",
+    "company": "QuellSoft Inc.",
+    "url": "https://www.dice.com/job-detail/e3b2739b-adc0-4e9e-b28c-b4a87fecaf38",
+    "easy_apply": true
+  },
+  {
+    "guid": "c860aea9-c482-45f2-a7b3-44852da739d3",
+    "title": "Application Security Engineer",
+    "company": "Peer Consulting Resources",
+    "url": "https://www.dice.com/job-detail/c860aea9-c482-45f2-a7b3-44852da739d3",
+    "easy_apply": true
+  },
+  {
+    "guid": "ea9d51c1-f67f-48f6-b74a-cf3da1c4045a",
+    "title": "Senior Full Stack Engineer",
+    "company": "Fynbosys Inc",
+    "url": "https://www.dice.com/job-detail/ea9d51c1-f67f-48f6-b74a-cf3da1c4045a",
+    "easy_apply": true
+  },
+  {
+    "guid": "590f97b6-9eae-4a69-bba6-ee2008deb40f",
+    "title": "Java Fullstack Developer - who is located in Michigan",
+    "company": "Sita Consulting Services, LLC",
+    "url": "https://www.dice.com/job-detail/590f97b6-9eae-4a69-bba6-ee2008deb40f",
+    "easy_apply": true
+  },
+  {
+    "guid": "0de47480-95c3-4265-bcf3-3b0fd5e9a575",
+    "title": "Full stack Developer - Banking",
+    "company": "K-Tek Resourcing LLC",
+    "url": "https://www.dice.com/job-detail/0de47480-95c3-4265-bcf3-3b0fd5e9a575",
+    "easy_apply": true
+  },
+  {
+    "guid": "445cab84-186f-4e12-9c46-aa66aebd5aca",
+    "title": "Principle Software Engineer (Java)",
+    "company": "Sky Solutions LLC",
+    "url": "https://www.dice.com/job-detail/445cab84-186f-4e12-9c46-aa66aebd5aca",
+    "easy_apply": true
+  },
+  {
+    "guid": "56e4945c-ab93-4d4d-a7d3-192a74e1aef6",
+    "title": "Spring Boot/ API Developer - 2 Openings (Hybrid)",
+    "company": "DivIHN Integration Inc.",
+    "url": "https://www.dice.com/job-detail/56e4945c-ab93-4d4d-a7d3-192a74e1aef6",
+    "easy_apply": true
+  },
+  {
+    "guid": "929bed30-a348-4731-8d3f-33590b5ea786",
+    "title": "Java Developer- w2",
+    "company": "Learn Beyond Consulting LLC",
+    "url": "https://www.dice.com/job-detail/929bed30-a348-4731-8d3f-33590b5ea786",
+    "easy_apply": true
+  },
+  {
+    "guid": "3d9202e9-107e-4e1e-852d-0bca411debdc",
+    "title": "Senior Software Engineer",
+    "company": "Aroha Technologies",
+    "url": "https://www.dice.com/job-detail/3d9202e9-107e-4e1e-852d-0bca411debdc",
+    "easy_apply": true
+  },
+  {
+    "guid": "48f4e93b-8eec-43e1-b6d2-8624e87c6354",
+    "title": "Software Engineer - Remote",
+    "company": "VIVA USA INC",
+    "url": "https://www.dice.com/job-detail/48f4e93b-8eec-43e1-b6d2-8624e87c6354",
+    "easy_apply": true
+  },
+  {
+    "guid": "f11e0903-6525-47c4-8054-f7ead95b5032",
+    "title": "Sr. Java developer with financial experience",
+    "company": "Infinity Tech Group Inc",
+    "url": "https://www.dice.com/job-detail/f11e0903-6525-47c4-8054-f7ead95b5032",
+    "easy_apply": true
+  },
+  {
+    "guid": "1be397d3-6e57-4042-bae6-50f227ef3093",
+    "title": "Java Fullstack Developer",
+    "company": "Kaizen Soft Solutions, LLC",
+    "url": "https://www.dice.com/job-detail/1be397d3-6e57-4042-bae6-50f227ef3093",
+    "easy_apply": true
+  },
+  {
+    "guid": "6cfef75e-0a81-4dff-8f8e-3b990301694e",
+    "title": "Sterling OMS",
+    "company": "Reveille Technologies",
+    "url": "https://www.dice.com/job-detail/6cfef75e-0a81-4dff-8f8e-3b990301694e",
+    "easy_apply": true
+  },
+  {
+    "guid": "8415dba8-7c55-480b-98c9-65f47ee26d89",
+    "title": "AWS Java Developer (Scala / Spark)",
+    "company": "NimbusAITech LLC",
+    "url": "https://www.dice.com/job-detail/8415dba8-7c55-480b-98c9-65f47ee26d89",
+    "easy_apply": true
+  },
+  {
+    "guid": "12d03eb2-3f17-4c28-b930-7ed3d1d4b632",
+    "title": "Senior Backend Developer",
+    "company": "Droisys",
+    "url": "https://www.dice.com/job-detail/12d03eb2-3f17-4c28-b930-7ed3d1d4b632",
+    "easy_apply": true
+  },
+  {
+    "guid": "6b7e8925-9643-4f71-b103-3727a59bd16b",
+    "title": "Java Developer",
+    "company": "Acro Service Corp.",
+    "url": "https://www.dice.com/job-detail/6b7e8925-9643-4f71-b103-3727a59bd16b",
+    "easy_apply": true
+  },
+  {
+    "guid": "d6788057-9f6b-438b-a6da-1df6cb533f64",
+    "title": "Java Developer",
+    "company": "Learn Beyond Consulting LLC",
+    "url": "https://www.dice.com/job-detail/d6788057-9f6b-438b-a6da-1df6cb533f64",
+    "easy_apply": true
+  },
+  {
+    "guid": "b582262e-883b-4d2e-ba83-6c264de109e3",
+    "title": "AI Developer",
+    "company": "Sun Technologies,Inc.",
+    "url": "https://www.dice.com/job-detail/b582262e-883b-4d2e-ba83-6c264de109e3",
+    "easy_apply": true
+  },
+  {
+    "guid": "b87daee7-e67b-43fa-ac0d-a8e17bb70dca",
+    "title": "Sr-Cloud Engineer",
+    "company": "Fusion Life Sciences",
+    "url": "https://www.dice.com/job-detail/b87daee7-e67b-43fa-ac0d-a8e17bb70dca",
+    "easy_apply": true
+  },
+  {
+    "guid": "4536a82c-5775-4329-9572-d1b82c00d979",
+    "title": "Java Backend Developer - W2",
+    "company": "Bridge Flair LLC",
+    "url": "https://www.dice.com/job-detail/4536a82c-5775-4329-9572-d1b82c00d979",
+    "easy_apply": true
+  },
+  {
+    "guid": "c9c0bf4b-97d7-49ac-9dd2-f60c18521e02",
+    "title": "Java Developer- React",
+    "company": "Learn Beyond Consulting LLC",
+    "url": "https://www.dice.com/job-detail/c9c0bf4b-97d7-49ac-9dd2-f60c18521e02",
+    "easy_apply": true
+  },
+  {
+    "guid": "b7cc9ef0-f86c-4647-a4ef-d9fa4ca0cc93",
+    "title": "Senior Full-Stack Developer -W2",
+    "company": "DCode Talent",
+    "url": "https://www.dice.com/job-detail/b7cc9ef0-f86c-4647-a4ef-d9fa4ca0cc93",
+    "easy_apply": true
+  },
+  {
+    "guid": "75e2d4cb-885e-4edd-aafa-5aaa3e168950",
+    "title": "W2 Position || Java Full Stack Developer || Plano, TX (Day 1 Onsite) || Face to face interview",
+    "company": "SmartIT Frame",
+    "url": "https://www.dice.com/job-detail/75e2d4cb-885e-4edd-aafa-5aaa3e168950",
+    "easy_apply": true
+  },
+  {
+    "guid": "ee65449a-7b2b-4407-959b-6a88e833d044",
+    "title": "Full Stack Developer ()",
+    "company": "Winning Edge Solutions, LLC",
+    "url": "https://www.dice.com/job-detail/ee65449a-7b2b-4407-959b-6a88e833d044",
+    "easy_apply": true
+  },
+  {
+    "guid": "d6d55264-32e6-4cc1-86d1-8bc110ec8f58",
+    "title": "Senior Integration Engineer #11089",
+    "company": "ECCO Select",
+    "url": "https://www.dice.com/job-detail/d6d55264-32e6-4cc1-86d1-8bc110ec8f58",
+    "easy_apply": true
+  },
+  {
+    "guid": "d68d4119-bf62-459d-b59d-29bc6a21d019",
+    "title": "Java AWS Developer",
+    "company": "Alchemy Software Solutions LLC",
+    "url": "https://www.dice.com/job-detail/d68d4119-bf62-459d-b59d-29bc6a21d019",
+    "easy_apply": true
+  },
+  {
+    "guid": "9a846b12-b1f8-4bc4-8771-a027db2d5396",
+    "title": "Full Stack Developer (TaaS) - Charlotte, NC (Local and W2 Only)",
+    "company": "Shiro Technologies",
+    "url": "https://www.dice.com/job-detail/9a846b12-b1f8-4bc4-8771-a027db2d5396",
+    "easy_apply": true
+  },
+  {
+    "guid": "f0cd12c8-03f4-4462-9a66-0dee91e4f6ca",
+    "title": "Senior SDET (Software Development Engineer in Test)",
+    "company": "RisamSoft Inc",
+    "url": "https://www.dice.com/job-detail/f0cd12c8-03f4-4462-9a66-0dee91e4f6ca",
+    "easy_apply": true
+  },
+  {
+    "guid": "c9cfbbde-392b-44ba-adec-c0d7a417d9e8",
+    "title": "Sr. Full Stack Developer",
+    "company": "Motion Recruitment Partners, LLC",
+    "url": "https://www.dice.com/job-detail/c9cfbbde-392b-44ba-adec-c0d7a417d9e8",
+    "easy_apply": true
+  },
+  {
+    "guid": "b2c868dd-02d2-4be8-988d-c9a1e55b2b59",
+    "title": "Python + AI + AWS Engineer",
+    "company": "ADDSOURCE",
+    "url": "https://www.dice.com/job-detail/b2c868dd-02d2-4be8-988d-c9a1e55b2b59",
+    "easy_apply": true
+  },
+  {
+    "guid": "2f95a1a6-93da-4320-a957-7a8df2353500",
+    "title": "Senior Java Developer",
+    "company": "Evoke Technologies",
+    "url": "https://www.dice.com/job-detail/2f95a1a6-93da-4320-a957-7a8df2353500",
+    "easy_apply": true
+  },
+  {
+    "guid": "f02aa5b4-bb90-4fdd-b5df-e866eb9c54ef",
+    "title": "Sr. Java Developer (AI Focus)",
+    "company": "MetaSense, Inc.",
+    "url": "https://www.dice.com/job-detail/f02aa5b4-bb90-4fdd-b5df-e866eb9c54ef",
+    "easy_apply": true
+  },
+  {
+    "guid": "078c36cb-5688-4acd-abff-b75f8b1e1d60",
+    "title": "API Developer",
+    "company": "MARS IT",
+    "url": "https://www.dice.com/job-detail/078c36cb-5688-4acd-abff-b75f8b1e1d60",
+    "easy_apply": true
+  },
+  {
+    "guid": "eb5977d1-dfb2-49cb-a9c0-72b24cc7d094",
+    "title": "Data Engineer IV",
+    "company": "Robert Half",
+    "url": "https://www.dice.com/job-detail/eb5977d1-dfb2-49cb-a9c0-72b24cc7d094",
+    "easy_apply": true
+  },
+  {
+    "guid": "1b85efcd-fc92-4077-8e53-74bb9349348d",
+    "title": "Sr. Python/Spark Platform Engineer",
+    "company": "Motion Recruitment Partners, LLC",
+    "url": "https://www.dice.com/job-detail/1b85efcd-fc92-4077-8e53-74bb9349348d",
+    "easy_apply": true
+  },
+  {
+    "guid": "62fee0d9-f052-4819-a734-5d5290da658e",
+    "title": "Senior QA Analyst",
+    "company": "Agile / Access Data",
+    "url": "https://www.dice.com/job-detail/62fee0d9-f052-4819-a734-5d5290da658e",
+    "easy_apply": true
+  },
+  {
+    "guid": "72dbd85b-8c0f-4b48-8c54-8b0ce48fbb5a",
+    "title": "Sr. Full Stack Developer",
+    "company": "Motion Recruitment Partners, LLC",
+    "url": "https://www.dice.com/job-detail/72dbd85b-8c0f-4b48-8c54-8b0ce48fbb5a",
+    "easy_apply": true
+  },
+  {
+    "guid": "b6f3e117-a4e4-4499-8d55-0905530296a3",
+    "title": "Java Full Stack Developer",
+    "company": "NextXap, Inc.",
+    "url": "https://www.dice.com/job-detail/b6f3e117-a4e4-4499-8d55-0905530296a3",
+    "easy_apply": true
+  },
+  {
+    "guid": "3d5d2076-fdba-4b45-afc1-97c886d0a681",
+    "title": "Senior SDET (Software Development Engineer in Test)",
+    "company": "Cliff Services Inc",
+    "url": "https://www.dice.com/job-detail/3d5d2076-fdba-4b45-afc1-97c886d0a681",
+    "easy_apply": true
+  },
+  {
+    "guid": "09b8d0cc-e67c-497e-b00d-3173a34e884a",
+    "title": "Kore.ai Developer",
+    "company": "kjohn@samrusystems.com",
+    "url": "https://www.dice.com/job-detail/09b8d0cc-e67c-497e-b00d-3173a34e884a",
+    "easy_apply": true
+  },
+  {
+    "guid": "b3d67cdb-ac43-4012-bbf3-c4d1a2ffcfb7",
+    "title": "Sr. SWE - Maximo / Java",
+    "company": "HAYS",
+    "url": "https://www.dice.com/job-detail/b3d67cdb-ac43-4012-bbf3-c4d1a2ffcfb7",
+    "easy_apply": true
+  },
+  {
+    "guid": "da4567ee-a73e-4497-a70a-d6a6ad1908e3",
+    "title": "Full Stack Java Developer",
+    "company": "Brillius",
+    "url": "https://www.dice.com/job-detail/da4567ee-a73e-4497-a70a-d6a6ad1908e3",
+    "easy_apply": true
+  },
+  {
+    "guid": "f2ec8ef1-4e07-4fa7-a1a0-acb356b3d3ee",
+    "title": "Java Angular Developer",
+    "company": "Camelot Integrated Solutions Inc",
+    "url": "https://www.dice.com/job-detail/f2ec8ef1-4e07-4fa7-a1a0-acb356b3d3ee",
+    "easy_apply": true
+  },
+  {
+    "guid": "ae41bd2d-605f-437d-8e81-d991633e4f0e",
+    "title": "Kore.ai Developer",
+    "company": "Talent Groups",
+    "url": "https://www.dice.com/job-detail/ae41bd2d-605f-437d-8e81-d991633e4f0e",
+    "easy_apply": true
+  },
+  {
+    "guid": "68418245-e722-4253-95a6-5227cf39c5d7",
+    "title": "Sr. Java Developer (AI Focus) Hybrid",
+    "company": "Benchmark IT- Technology Talent",
+    "url": "https://www.dice.com/job-detail/68418245-e722-4253-95a6-5227cf39c5d7",
+    "easy_apply": true
+  },
+  {
+    "guid": "50c2e505-dc3e-4e66-9b4e-985a916b4554",
+    "title": "Java developer with Kafka",
+    "company": "Lorhan Corporation",
+    "url": "https://www.dice.com/job-detail/50c2e505-dc3e-4e66-9b4e-985a916b4554",
+    "easy_apply": true
+  },
+  {
+    "guid": "696b062f-1d48-4544-8c76-5436f971cfaf",
+    "title": "Java Developer",
+    "company": "K-Tek Resourcing LLC",
+    "url": "https://www.dice.com/job-detail/696b062f-1d48-4544-8c76-5436f971cfaf",
+    "easy_apply": true
+  },
+  {
+    "guid": "aaae7bd6-bfdd-4db1-97cf-7cb6914a88ec",
+    "title": "Senior Software Engineer IT Asset Management",
+    "company": "Innova Solutions",
+    "url": "https://www.dice.com/job-detail/aaae7bd6-bfdd-4db1-97cf-7cb6914a88ec",
+    "easy_apply": true
+  },
+  {
+    "guid": "603c61ca-f295-4e79-89df-687be37ba15d",
+    "title": "Sr Fullstack Developer Onsite NJ",
+    "company": "MSYS Inc",
+    "url": "https://www.dice.com/job-detail/603c61ca-f295-4e79-89df-687be37ba15d",
+    "easy_apply": true
+  },
+  {
+    "guid": "6dc37f6b-a34b-42d5-b397-b8dd2106534a",
+    "title": "Java Full Stack Developer",
+    "company": "4 Consulting Inc",
+    "url": "https://www.dice.com/job-detail/6dc37f6b-a34b-42d5-b397-b8dd2106534a",
+    "easy_apply": true
+  },
+  {
+    "guid": "a9a29784-08dd-41c4-90a4-db0ab6b2d13d",
+    "title": "Senior Full Stack Engineer",
+    "company": "Cynet Systems",
+    "url": "https://www.dice.com/job-detail/a9a29784-08dd-41c4-90a4-db0ab6b2d13d",
+    "easy_apply": true
+  },
+  {
+    "guid": "a2f274fe-125c-4d3b-b073-6cc2b5840bd1",
+    "title": "Java Developer Plano TX",
+    "company": "SUNRAY INFORMATICS",
+    "url": "https://www.dice.com/job-detail/a2f274fe-125c-4d3b-b073-6cc2b5840bd1",
+    "easy_apply": true
+  },
+  {
+    "guid": "e9e72be4-d8a5-4c26-b3dd-31947edc6ade",
+    "title": "Java FileNet Developer",
+    "company": "Javen Technologies",
+    "url": "https://www.dice.com/job-detail/e9e72be4-d8a5-4c26-b3dd-31947edc6ade",
+    "easy_apply": true
+  },
+  {
+    "guid": "b369074c-bd65-44f2-b2d6-68e379d64860",
+    "title": "Amazon Connect Voice Engineer with Java",
+    "company": "Accion Labs",
+    "url": "https://www.dice.com/job-detail/b369074c-bd65-44f2-b2d6-68e379d64860",
+    "easy_apply": true
+  },
+  {
+    "guid": "7f60da8d-cac1-4f13-8268-ae093329bd73",
+    "title": "Senior Engineer Banking",
+    "company": "York Solutions",
+    "url": "https://www.dice.com/job-detail/7f60da8d-cac1-4f13-8268-ae093329bd73",
+    "easy_apply": true
+  },
+  {
+    "guid": "c2a73b3d-b0f9-4caf-b6f8-231c31acce24",
+    "title": "Senior Java Developer",
+    "company": "Spar Information Systems",
+    "url": "https://www.dice.com/job-detail/c2a73b3d-b0f9-4caf-b6f8-231c31acce24",
+    "easy_apply": true
+  },
+  {
+    "guid": "5a3621d9-ded1-4ea3-94aa-ab0d889ca699",
+    "title": "Java Developer (AWS)",
+    "company": "Lorven Technologies, Inc.",
+    "url": "https://www.dice.com/job-detail/5a3621d9-ded1-4ea3-94aa-ab0d889ca699",
+    "easy_apply": true
+  },
+  {
+    "guid": "572b197a-1bfc-484f-bcfd-9f20d538873e",
+    "title": "Senior Backend Engineer (SD3)",
+    "company": "4dot5",
+    "url": "https://www.dice.com/job-detail/572b197a-1bfc-484f-bcfd-9f20d538873e",
+    "easy_apply": true
+  },
+  {
+    "guid": "04eec298-b8d2-4406-959e-8d819a5d77bf",
+    "title": "Java Developer (AWS)",
+    "company": "Cynet Systems",
+    "url": "https://www.dice.com/job-detail/04eec298-b8d2-4406-959e-8d819a5d77bf",
+    "easy_apply": true
+  },
+  {
+    "guid": "f59a73fa-7b8e-49fa-a87b-56dcd0c801b8",
+    "title": "Java Full Stack Developer (Hybrid)",
+    "company": "Cliff Services Inc",
+    "url": "https://www.dice.com/job-detail/f59a73fa-7b8e-49fa-a87b-56dcd0c801b8",
+    "easy_apply": true
+  },
+  {
+    "guid": "9d596d6d-1e9a-4d1e-9cae-13e009617cdc",
+    "title": "Sr. Java Fullstack (React/Springboot)",
+    "company": "ThinkBeyond Inc",
+    "url": "https://www.dice.com/job-detail/9d596d6d-1e9a-4d1e-9cae-13e009617cdc",
+    "easy_apply": true
+  },
+  {
+    "guid": "e479953c-5c7b-46f0-8727-1671ed0350cc",
+    "title": "Java Kafka Developer",
+    "company": "Menzo",
+    "url": "https://www.dice.com/job-detail/e479953c-5c7b-46f0-8727-1671ed0350cc",
+    "easy_apply": true
   }
 ]
