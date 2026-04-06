@@ -3031,5 +3031,29 @@
     "title": "AWS API Developer",
     "company": "Infogen Software Inc.",
     "location": "Remote"
+  },
+  {
+    "guid": "d5141484-28b3-48b9-9efb-b1c8d7b079fa",
+    "title": "Camunda Developer",
+    "company": "NGTalentTech Group LLC",
+    "location": "Plano, TX"
+  },
+  {
+    "guid": "2bf72b11-2a3b-4fdb-9413-3c342c97d601",
+    "title": "Camunda Developer",
+    "company": "Magicforce",
+    "location": "Plano, TX"
+  },
+  {
+    "guid": "dce7ca8f-64c7-4b93-bf68-a639ad1cb51c",
+    "title": "Java Full Stack Developer",
+    "company": "Rapsys Technologies",
+    "location": "Phoenix, AZ"
+  },
+  {
+    "guid": "0024fde0-41da-416e-b9c5-3166f08f16a3",
+    "title": "IBM Sterling OMS Developer",
+    "company": "Stefanini",
+    "location": "Remote"
   }
 ]
