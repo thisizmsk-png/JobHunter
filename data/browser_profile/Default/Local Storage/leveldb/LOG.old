@@ -1,0 +1,6 @@
+2026/04/06-01:45:09.690 663fe6 Reusing MANIFEST /Users/saikrishnamadavarapu/Development/JobBoard/data/browser_profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/04/06-01:45:09.695 663fe6 Recovering log #3
+2026/04/06-01:45:09.695 663fe6 Reusing old log /Users/saikrishnamadavarapu/Development/JobBoard/data/browser_profile/Default/Local Storage/leveldb/000003.log 
+2026/04/06-01:46:09.698 663fe4 Level-0 table #5: started
+2026/04/06-01:46:09.704 663fe4 Level-0 table #5: 18994 bytes OK
+2026/04/06-01:46:09.707 663fe4 Delete type=0 #3
